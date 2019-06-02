@@ -1,0 +1,52 @@
+:root{
+  --pink:#e83e8c;
+  --grey:#707070;
+  --white:#fff;
+}
+body {
+  background-color: #fff;
+}
+body * {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+h1, h2, h3 {
+  font-weight: 500;
+}
+.card p {
+  color:var(--grey);
+}
+/* Container */
+h6 {
+  font-size: 40px;
+}
+
+#precio1 {
+  font-size: 16px;
+  text-align: right;
+}
+
+#precio2 {
+  font-size: 30px;
+  text-align: right;
+}
+/* Formulario */
+
+.div p {
+  color:#fff;
+}
+.div form-group {
+  font-size: 21px;
+}
+
+/* Footer*/
+
+footer {
+  margin-top: 3rem;
+}
+
+h3 {
+  font-size: 16px;
+  color:#707070;
+}

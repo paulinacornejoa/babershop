@@ -1,0 +1,121 @@
+/* Fuentes */
+body {
+  font-family: 'Cabin', sans-serif;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+/*cuando llame a un h2 integrar esto*/
+
+/*Colores*/
+:root{
+  --grey:#373A3C;
+  --danger:#DC3545;
+  --lightgrey:#DDDDDD;
+  --black:#000;
+  --white:#fff;
+}
+
+/* Barra de Navegación */
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+font-size: 37px;
+text-align: center;
+}
+.navbar-nav {
+  text-align: right;
+}
+/*secciones*/
+}
+.principaltitle{
+  text-align: left;
+  font-weight: 700;
+  font-size: 40px;
+  width: 425px;
+  padding-right: 75px;
+}
+.subtitle {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.littleline {
+  border-color: black;
+  border-width: 1px;
+  width: 100%;
+}
+.lineblack {
+  border-color: black;
+  border-width: 1px;
+  width: 70%;
+}
+.btn1 {
+  border: solid 1px black;
+  background-color: white;
+  width: 100px;
+
+}
+
+.btn2 {
+  border: solid 1px black;
+  background-color: white;
+  width: 100px;
+}
+/*Carousel*/
+.carousel-indicators {
+  bottom: -54px;
+}
+.carousel-indicators li {
+  width: 13px;
+  height: 13px;
+  border-radius: 100%;
+  background-color: #373A3C;
+}
+
+
+/* Listado preparación*/
+.recipelist {
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  text-align: left;
+}
+.ingredientes {
+  font-size: 20px;
+  text-align: left;
+}
+.cardrecipe {
+  padding-top: 40px;
+}
+.recipesection{
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+
+
+/*Suscribete */
+.newsletter {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.btn {
+  border: solid 1px white;
+  width: 233px;
+}
+
+/*FOOTER*/
+
+.subtitle {
+  font-size: 1.2em;
+}
+.lettercomida1 {
+  font-family: 'Lobster', cursive;
+
+}
+.lettercomida2 {
+  font-family: 'Lobster', cursive;
+  font-size: 37px;
+  padding-top: 20px;
+  padding-bottom: 38px;
+}

@@ -1,0 +1,7 @@
+:root{
+  --pink:#e83e8c;
+}
+
+nav {
+  background-color: var(--pink)
+}

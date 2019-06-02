@@ -1,0 +1,185 @@
+body {
+
+}
+/*Estilo Navbar*/
+
+.navb-ar {
+  background-color: #000030;
+}
+.letter-p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  text-align: left;
+}
+span i {
+  font-size: 50px;
+}
+#navbarNav {
+  font-family: 'Open Sans', sans-serif;
+  color: #F1ECE2;
+  font-weight: 300;
+  font-size: 21px;
+
+}
+
+/*Estilo background*/
+
+.bg-paulina {
+  background-image: url(../img/bg-paulina.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 737px;
+}
+
+.bg-paulina {
+  font-family: 'Oswald', sans-serif;
+  color: #F1ECE2;
+  text-align: center;
+}
+.title1 {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 356px;
+}
+
+.text-me{
+font-weight: 200;
+}
+
+.text-name{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 52px;}
+
+.littleline {
+  border-color: white;
+  border-width: 1px;
+  width: 30%;
+}
+
+/*Estilo Sección textos*/
+.texto-container {
+  margin-top: 84px;
+  margin-left: 156px;
+  margin-right: 156px;
+  margin-bottom: 84px;
+}
+.about {
+  background-color: #F1ECE2;
+}
+
+.subtext{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #373A3C;
+  font-size: 25px;
+  line-height: 50px;
+  line-width: 20px;
+  margin-bottom: 40px;
+}
+.underline {
+  border-color: #373A3C;
+  border-width: 2px;
+  width: 115px;
+  margin-top: 1rem;
+}
+.twotext {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+/*Estilo Mi Experiencia*/
+
+.title-experience {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 52px;
+
+}
+h3 {
+  font-weight: 600;
+  font-family: 'Oswald', sans-serif;
+  padding-top: 20px;
+}
+h4, h5 {
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.experience {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/*Estilo Mis ultimos trabajos */
+.last-works {
+  background-color: #000030;
+  padding-top: 60px;
+  padding-bottom: 45px;
+}
+.carousel-item img {
+  width: 100%;
+}
+div button {
+  color: #000030;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title-works {
+  color: #F1ECE2;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 52px;
+  text-align: center;
+}
+.underline1 {
+  border-color: #FFFFFF;
+  border-width: 2px;
+  width: 115px;
+  margin-top: 1rem;
+}
+/*Estilo Contacto */
+
+.contact{
+background-color: #F1ECE2;
+}
+
+/*Estilo Footer */
+footer {
+  height: 221px;
+}
+
+.footer-fin {
+  background-color: #000030;
+}
+
+.title-contact {
+  color: #373A3C;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 52px;
+  text-align: center;
+  padding-top: 3.5rem;
+
+}
+.footer-name {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+footer .icons-link,
+footer .footer-name {
+padding-top: 70px;}
+
+div a {
+  color: #ffffff;
+  padding-left: 10px;
+  padding-right: 10px;
+}

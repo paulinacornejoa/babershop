@@ -1,0 +1,157 @@
+/* Estilos del body */
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+/* Este es la apariencia del header*/
+header {
+  padding-bottom: 0.5em;
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 0.5em;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 50px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+/* Estilos img de la iguana*/
+
+#igu{
+  background-image: url(../img/bg-header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  justify-content: center;
+  padding-bottom: 20em;
+  padding-right: 10em;
+}
+
+/* Estilos descripción */
+
+.desc-section{
+  background-color: #000000;
+  color: #ffffff;
+  justify-content: center;
+  padding-left: 9.125em;
+  padding-right: 9.125em;
+  padding-top: 76px;
+  padding-bottom: 76px;
+}
+
+.desc-section article {
+  display: inline-block;
+  width: 475px;
+  height: 197px;
+  text-align: center;
+}
+
+.desc-section img{
+  width: 399px;
+  height: 237px;
+  margin-left: 150px;
+}
+
+.desc-section p{
+  font-weight: 300;
+  text-align: left;
+  font-size: 16px;
+}
+
+/* Estilos Icons-section*/
+
+.icons-section{
+  background-color: #1e1a13;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+}
+
+/* ESte es el título de sección de iconos */
+.icons-section h2 {
+  font-weight: 500;
+  font-size: 3rem;
+  margin-bottom: 0.25em;
+  margin-top: auto;
+}
+
+/* Este es el texto de los iconos */
+.icons-section {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  justify-content: center;
+}
+.icons-section h3 {
+
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.icons-section i {
+  line-height: 2;
+  width: 40%;
+}
+
+.icons-section div{
+  display: inline-block;
+  width: 25%;
+  border: 301px;
+}
+.fa-4x {
+  font-size: 57px;
+}
+
+/* Estilos de fotos de la iguana */
+.fotos {
+  background-color: #000000;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+.fotos div{
+  font-size: 316px 202px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.fotos img {
+  width: 316px;
+  height: 202px;
+}
+
+
+/* Este es CSS del footer */
+.footer {
+  padding-top: 39px;
+  padding-bottom: 39px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #1e1a13;
+}
+.footer p{
+  font-size: 20px;
+  font-weight: 300px;
+}
+.footer a{
+  color: #ffffff;
+  text-decoration: none;
+}
