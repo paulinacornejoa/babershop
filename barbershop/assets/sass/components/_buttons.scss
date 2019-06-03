@@ -1,0 +1,17 @@
+.button {
+padding: .7rem 2rem;
+border-radius: 3px;
+font-family: $roboto;
+font-size: $small;
+font-weight: $regular;
+text-align: center;
+
+.button_share {
+  background-color: $nickel;
+  border:1px solid $nickel;
+}
+
+.button_coment {
+  border-color: $nickel;
+
+}

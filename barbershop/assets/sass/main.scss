@@ -1,12 +1,18 @@
 /*Componentes del sitio*/
 
 @import "abstract/variables";
-@import "vendors/vendors";
+
+@import "vendors/bootstrap-4.3.1/bootstrap.scss";
+
 @import "base/reset";
 @import "base/typography";
+@import "base/reset";
+
 @import "components/buttons";
+
+@import "layout/header";
 @import "layout/footer";
-@import "layout/navegation";
 @import "layout/section";
+
 @import "pages/pages";
 @import "themes/themes";
